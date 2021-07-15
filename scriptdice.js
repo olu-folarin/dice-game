@@ -36,7 +36,7 @@ const initLogic = function() {
   // reset active player
   player0El.classList.add('player--active');
 }
-// initLogic();
+initLogic();
 
 
 const playerSwitch = function() {
